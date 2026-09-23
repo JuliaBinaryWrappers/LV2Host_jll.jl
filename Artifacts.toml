@@ -1,160 +1,160 @@
 [[LV2Host]]
 arch = "aarch64"
-git-tree-sha1 = "fa006a864c7a15955007f793a0d1a473942d819e"
+git-tree-sha1 = "d5405d4888a5cfa938dba8505109b9dc1eb3e1d6"
 os = "macos"
 
     [[LV2Host.download]]
-    sha256 = "5dd828f99e0855deb97fbc4ba44149788b5b28e393ef2f7d9fb1922023a4f968"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "a8ba9ad9fc9e9f5b0628e6ef9ff92e442b85057e70135bfb289279ee3aa5ad43"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.aarch64-apple-darwin.tar.gz"
 [[LV2Host]]
 arch = "aarch64"
-git-tree-sha1 = "d00c83f3d7f7d7f3cd4805001b6202caa97f009b"
+git-tree-sha1 = "be926c299d993e087fb6be863c2a3e65992ebc6a"
 libc = "glibc"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "8cf686dad33ce4f0a68fb8b933761663ca9ec1474da993d0b5ded5b9bcf97cbe"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "f38ed3be0d1d70d84d7724a4e55599630cf875a1149379c9129c89e89c08c709"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.aarch64-linux-gnu.tar.gz"
 [[LV2Host]]
 arch = "aarch64"
-git-tree-sha1 = "b22a8e010bd5d9451eead5e1f74c4554797fdca7"
+git-tree-sha1 = "58ad3f5dd23131fdadf3942c350cd33c9aa7d3b2"
 libc = "musl"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "3953c0ab1a3c86b85ba4b30b8c26eef7c4e62af27296ceb87c8c1662037cfc7b"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.aarch64-linux-musl.tar.gz"
+    sha256 = "7f839a041608a37fead182024c6c8f12a4991c052ba96072c37604d6945a5a36"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.aarch64-linux-musl.tar.gz"
 [[LV2Host]]
 arch = "aarch64"
-git-tree-sha1 = "f401ab6191f198ecdb085c8a59bd244e99a28650"
+git-tree-sha1 = "360968eadcd04dd02a6353388b37f9db20168fb1"
 os = "freebsd"
 
     [[LV2Host.download]]
-    sha256 = "63df16727341fec49a6ef51c7579f70a3a2396671ad79bae9dbabb3ff96981c3"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "b3ef09c9b90b77f3c0a7a93cd51d7fa5e9b97a8c4114d50d74d9ae75612d3218"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.aarch64-unknown-freebsd.tar.gz"
 [[LV2Host]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d755e8cc1e55276ff53ddbd8d4ba2deb8771557f"
+git-tree-sha1 = "0557d9e578608db4eb436748b5a6cb8b0eb18936"
 libc = "glibc"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "d4b41a044842857dad75b36745efbccdcdd98e3b7341c296de77370dea51f082"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "4813541ce5dabc618e1d814145caf9b776bc0046bb2b11b06e10995dd3fc6e97"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.armv6l-linux-gnueabihf.tar.gz"
 [[LV2Host]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "75f586275d5ae65ebdfc5d2142a7f7e9577abbaf"
+git-tree-sha1 = "60a0e03f96e349d4df4a8d646794e195863a9675"
 libc = "musl"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "d240b2427857f604040904594873d0613bd77d427245558f00523f224c6c7d92"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "c3bb45fc68ab2638758ef8bb97546b79dda599725d3fa2b6542cd044c438f576"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.armv6l-linux-musleabihf.tar.gz"
 [[LV2Host]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7c897bd2b72eb5a4b4b2aa17b51e44d748498c52"
+git-tree-sha1 = "c99ce6790d5774d83e3a4ddff7bc69e5e9871401"
 libc = "glibc"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "c76788e960c2cd4fae58f130cfd4ebc77cbf5f3fd6d10b58ab8e772199726826"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "03507e7970a2e21f8490b69476e9a6a2dc017e123a4d762d37913b5b175aa0c3"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.armv7l-linux-gnueabihf.tar.gz"
 [[LV2Host]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2abbe7433c8611df8e553c848cbc585ada83f71f"
+git-tree-sha1 = "b897956f7977c4d95805a8538f07951cc1b1c32b"
 libc = "musl"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "648bf6d89dcceb58268905f867a146b8391106ad4449f61f4b80a42a3be23dc4"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c3161ea688e8f264b7c435af46ad130eee5d5bc1245ccacebc5ad11ec522b876"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.armv7l-linux-musleabihf.tar.gz"
 [[LV2Host]]
 arch = "i686"
-git-tree-sha1 = "100e56e0ca30578066b2ce9e8dd497518258b268"
+git-tree-sha1 = "8c2da8969379673cdafa8647fdbb628b708e5657"
 libc = "glibc"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "c49ab7fc6ccd1ae64a77a149214d8169e091159a63c3c21d547e1529c38c6098"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.i686-linux-gnu.tar.gz"
+    sha256 = "636db5d32cd247e67ab799faeea86837015b6d4ddb1e5844035b16b128fbadf8"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.i686-linux-gnu.tar.gz"
 [[LV2Host]]
 arch = "i686"
-git-tree-sha1 = "2ebcfdf9f02c2a4a8262fd38e293c5b82d94271a"
+git-tree-sha1 = "055f8dcd35a482acf1964a36878d41c0b226af2c"
 libc = "musl"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "be1be93a49e0890806c7cb8ab0916fd88a4a9105a5089d34831bf7e40fba5b60"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.i686-linux-musl.tar.gz"
+    sha256 = "b98f0518e050a6478eb20997299c627354e4793c0d86715878fa08d0689b080b"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.i686-linux-musl.tar.gz"
 [[LV2Host]]
 arch = "i686"
-git-tree-sha1 = "a956f8bfe04c56e2ae0b700e67f3536359d8e5bf"
+git-tree-sha1 = "7d5513cc76abfbf51f217e489233091471da4a24"
 os = "windows"
 
     [[LV2Host.download]]
-    sha256 = "2660d50f22a4adfb14be9b613fc7e537cb3772c392ae766bf382a3ced986b115"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.i686-w64-mingw32.tar.gz"
+    sha256 = "2db34d6c4aa903a531a77cad9dc3585dd7b2971466498f918273a720761eb50f"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.i686-w64-mingw32.tar.gz"
 [[LV2Host]]
 arch = "powerpc64le"
-git-tree-sha1 = "5f24e8f4166f7c54c865b23db981b846c688915d"
+git-tree-sha1 = "fd9bc64eb8c8625816a9210a484f9250d8cf4cf6"
 libc = "glibc"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "c6502af58eef1c41fbdb3d257f6693aa331618d9bead36c5df2fc3320c5f30ce"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ae4c2440c8fb935d27f1e44830531ea0912b0696a7a2c420af5e6f72ed8282c1"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.powerpc64le-linux-gnu.tar.gz"
 [[LV2Host]]
 arch = "riscv64"
-git-tree-sha1 = "245f63cc840237a295eb7c28b503ba99ee77b900"
+git-tree-sha1 = "4cc7fed75ffbbe9f37ec8408282b77ec5c121c9d"
 libc = "glibc"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "6fe52e53e554bd774463a51aa9317b23fb60854069f5bc65689b9348529ec506"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "78ea9b0c1f6e7d7ab392c7e35f130dd583e46dd38710dc29dac1e4fedb9f8906"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.riscv64-linux-gnu.tar.gz"
 [[LV2Host]]
 arch = "x86_64"
-git-tree-sha1 = "1685952dc528691e6695b69277f1160ce5dfc436"
+git-tree-sha1 = "1955b26b600ae70f41213ec6181107cca8f6f16a"
 os = "macos"
 
     [[LV2Host.download]]
-    sha256 = "af7ef11714fa3d8632f3203c2fda78e856aadf4f794294b4ec803c4a8856bdff"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "1b36bfadc17ae79117cbe4d81e35c9f6ca6658e6d1b202cc36671898773116ec"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.x86_64-apple-darwin.tar.gz"
 [[LV2Host]]
 arch = "x86_64"
-git-tree-sha1 = "e72d58b979d6973f91f4d239078a2b6deb2efd4d"
+git-tree-sha1 = "b5328541b44a001cf6ce803e829506cf8ccf38d7"
 libc = "glibc"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "8ebd3b7cf05da306817d67be090f0987be7ec2b25f5acc08dc9717378ee500fd"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "08ab3df1501a2624dab976e6abd5485b72c7e59ac66c7648fc12734fd0c7f4f0"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.x86_64-linux-gnu.tar.gz"
 [[LV2Host]]
 arch = "x86_64"
-git-tree-sha1 = "bc90aaac072a20ba9ec51f70cc311758e4ada644"
+git-tree-sha1 = "7ce34bab71bb7f49aa0b4823d0a3c77407f46460"
 libc = "musl"
 os = "linux"
 
     [[LV2Host.download]]
-    sha256 = "b113f5b60bcbb04943bc28dfa002e76bb3ea723c66d0f74350ff2534dd4fca8a"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.x86_64-linux-musl.tar.gz"
+    sha256 = "fe80d815161cdc258c1dcc85e556bf3f84b944c6d5c838fef4687765052a13ac"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.x86_64-linux-musl.tar.gz"
 [[LV2Host]]
 arch = "x86_64"
-git-tree-sha1 = "dad529acf2461c4d8f8e2f99889abb0f86029b77"
+git-tree-sha1 = "195715c49b7f4ffa6341030bf2c1ec76dbb891bf"
 os = "freebsd"
 
     [[LV2Host.download]]
-    sha256 = "cf5a608cbdfe73ffc7f758a65b5a8a7fe1bbe97e7f69312db00e4339133fa348"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "db1633f3d583a7b481f7eecfa04f8610e81838f385713b948fdd7bd47acf38aa"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.x86_64-unknown-freebsd.tar.gz"
 [[LV2Host]]
 arch = "x86_64"
-git-tree-sha1 = "3e3e680727b2b90ac0d432c7cc3f3cff624457a9"
+git-tree-sha1 = "521afb1d37f9b03057af901e90e49a34ba240251"
 os = "windows"
 
     [[LV2Host.download]]
-    sha256 = "ca301c5c28edea9a2b4bd7d68b9b3633b557289fd0c7ba6dec5bf01a135160dd"
-    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.1.1+0/LV2Host.v1.1.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "eb0d49a53983ed028f7bc6f413f1c7e34e9d48254c36a58e24050558bb994ebd"
+    url = "https://github.com/JuliaBinaryWrappers/LV2Host_jll.jl/releases/download/LV2Host-v1.2.0+0/LV2Host.v1.2.0.x86_64-w64-mingw32.tar.gz"
