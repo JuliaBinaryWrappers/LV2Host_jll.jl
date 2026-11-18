@@ -1,4 +1,4 @@
-# `LV2Host_jll.jl` (v1.3.0+0)
+# `LV2Host_jll.jl` (v1.3.0+1)
 
 [![deps](https://juliahub.com/docs/LV2Host_jll/deps.svg)](https://juliahub.com/ui/Packages/General/LV2Host_jll/)
 
